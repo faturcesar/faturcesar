@@ -49,9 +49,9 @@ Saya seorang Mahasiswa baru Program Studi Informatika yang bersemangat dalam ino
 
 ### 📊 Statistik GitHub Saya:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[username-github-anda]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub Anda"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faturcesar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub Anda"/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-github-anda]&layout=compact&theme=tokyonight" alt="Bahasa yang Paling Banyak Digunakan"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturcesar&layout=compact&theme=tokyonight" alt="Bahasa yang Paling Banyak Digunakan"/>
 </p>
 ---
 
