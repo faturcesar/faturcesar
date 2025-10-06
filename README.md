@@ -1,7 +1,7 @@
 # 👋 Halo, perkenalkan saya Moh Faturrohman Cesar Purwoko!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjdjByd29uNXdleWx0cmQ3dWFpcnhycjJtN2V2bDdwdGt2Mnp0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/paTz7UZbPfA9G/giphy.gif" width="200"/>
 </p>
 
 ### 👨‍💻 Tentang Saya:
