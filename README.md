@@ -1,16 +1,16 @@
-# 👋 Halo, perkenalkan saya [Nama Lengkap Anda]!
+# 👋 Halo, perkenalkan saya Moh Faturrohman Cesar Purwoko!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjdjByd29uNXdleWx0cmQ3dWFpcnhycjJtN2V2bDdwdGt2Mnp0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="200"/>
 </p>
 
 ### 👨‍💻 Tentang Saya:
-Saya seorang *Mahasiswa* yang bersemangat dalam inovasi, riset, dan pengembangan gagasan futuristik. Saya memiliki ketertarikan mendalam pada *Teknologi Masa Depan dan bagaimana dampaknya terhadap masyarakat*.
+Saya seorang Mahasiswa baru Program Studi Informatika yang bersemangat dalam inovasi, riset, dan pengembangan gagasan futuristik. Saya memiliki ketertarikan mendalam pada Teknologi Masa Depan dan bagaimana dampaknya terhadap masyarakat.
 
-- 🔭 Saat ini saya sedang mengerjakan proposal *Program Kreativitas Mahasiswa (PKM)*.
+- 🔭 Saat ini saya sedang mengerjakan proposal Program Kreativitas Mahasiswa (PKM).
 - 🌱 Saya sedang memperdalam ilmu tentang *[Teknologi atau bidang yang sedang dipelajari, misal: Artificial Intelligence, UX Research, dll.]*.
-- 💬 Tanya saya tentang *Riset, Inovasi, dan Konseptualisasi Ide*.
-- 📫 Cara menghubungi saya: *[Alamat Email Profesional Anda]*.
+- 💬 Tanya saya tentang Riset, Inovasi, dan Konseptualisasi Ide.
+- 📫 Cara menghubungi saya: faturrohmancp@gmail.com 
 
 ---
 
